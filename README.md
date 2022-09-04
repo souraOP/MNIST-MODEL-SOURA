@@ -1,4 +1,4 @@
-# MNIST-MODEL-SOURA
+# MNIST MODEL Using Numpy and Maths ~ made by Sourasish Mondal
 This is a basic Handwritten Number Recognition Model from the famous MNIST (Modified National Institute of Standards and Technology) dataset.
 
 ![image](https://user-images.githubusercontent.com/83086483/188177806-7e728fe4-ca0f-4056-8548-c052d5bb8099.png)
